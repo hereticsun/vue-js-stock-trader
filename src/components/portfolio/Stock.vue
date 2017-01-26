@@ -1,7 +1,5 @@
 <template>
-    <div class="container">
-        <router-view></router-view>
-    </div>
+    <h1>Portfolio Stock Component</h1>
 </template>
 
 <script>

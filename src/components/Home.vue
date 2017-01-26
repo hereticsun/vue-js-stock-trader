@@ -1,7 +1,5 @@
 <template>
-    <div class="container">
-        <router-view></router-view>
-    </div>
+    <h1>Home Component</h1>
 </template>
 
 <script>
